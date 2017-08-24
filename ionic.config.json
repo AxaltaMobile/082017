@@ -1,5 +1,8 @@
 {
   "name": "Axalta",
-  "app_id": "",
-  "type": "ionic-angular"
+  "app_id": "8c9ccb6c",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
 }
